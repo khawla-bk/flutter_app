@@ -1,0 +1,12 @@
+/home/k-irwise/Desktop/test_app/build/linux/x64/debug/bundle/test_app
+/home/k-irwise/Desktop/test_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/k-irwise/Desktop/test_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/k-irwise/Desktop/test_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/k-irwise/Desktop/test_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/k-irwise/Desktop/test_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/k-irwise/Desktop/test_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/k-irwise/Desktop/test_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/k-irwise/Desktop/test_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/k-irwise/Desktop/test_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/k-irwise/Desktop/test_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/k-irwise/Desktop/test_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
