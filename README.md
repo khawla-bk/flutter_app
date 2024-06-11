@@ -1,4 +1,6 @@
-# test_app
+# Flutter_app
+
+This is a Flutter test project 🔥
 
 A new Flutter project.
 
